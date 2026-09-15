@@ -5,7 +5,7 @@
 
 [한국어](README-KR.md) | Version **1.0.0** | Reference check: **2026-09-15**
 
-SANE turns ten common dashboard failures into concrete constraints for creating, repairing, or reviewing interfaces. It is English-first, with a complete Korean document set. It is not a UI kit, a fixed aesthetic, an autonomous agent, or a model fine-tune.
+SANE turns ten common dashboard failures into concrete constraints for creating, repairing, or reviewing interfaces. It is English-first, with a complete Korean document set. It is not a UI kit, a fixed aesthetic, an autonomous agent, or a model fine-tune. **[Info Page](<https://jtech-co.github.io/SANE/>)**
 
 ## Start with one file
 
